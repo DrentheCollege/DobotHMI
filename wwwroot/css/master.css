@@ -1,0 +1,11 @@
+body{
+  background-color: gray;
+}
+
+button#connect {
+  background-color: red;
+}
+
+img.directions  {
+  height: 500px;
+}
